@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.Form1.resources
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.Properties.Resources.resources
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ido\ido\bin\Debug\ido.exe.config
+C:\Users\hp\source\repos\ido\ido\bin\Debug\ido.exe
+C:\Users\hp\source\repos\ido\ido\bin\Debug\ido.pdb
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.exe
+C:\Users\hp\source\repos\ido\ido\obj\Debug\ido.pdb
+F:\okul dosyaları\ido\ido\obj\Debug\ido.csprojAssemblyReference.cache
+F:\okul dosyaları\ido\ido\obj\Debug\ido.Form1.resources
+F:\okul dosyaları\ido\ido\obj\Debug\ido.Properties.Resources.resources
+F:\okul dosyaları\ido\ido\obj\Debug\ido.csproj.GenerateResource.cache
+F:\okul dosyaları\ido\ido\obj\Debug\ido.exe
+F:\okul dosyaları\ido\ido\obj\Debug\ido.pdb
